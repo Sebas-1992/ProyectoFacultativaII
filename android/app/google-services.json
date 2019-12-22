@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "383491482693",
+    "firebase_url": "https://estudiantes-f7f5f.firebaseio.com",
+    "project_id": "estudiantes-f7f5f",
+    "storage_bucket": "estudiantes-f7f5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383491482693:android:c3107736bd84f2a5aeaf2c",
+        "android_client_info": {
+          "package_name": "com.facultativaii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383491482693-oodu8l1krljffemj0pkfgm43lefev8jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB8aDvsPjtB-AduoyaQnR2X2H9Gk5SM_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383491482693-oodu8l1krljffemj0pkfgm43lefev8jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
