@@ -22,7 +22,7 @@ const BotonesDePublicacion = (props) => {
             <Text
                 style={estilos.encabezado}
             >
-                Publicaciones
+                Estudiantes
             </Text>
 
             <View
@@ -39,7 +39,7 @@ const BotonesDePublicacion = (props) => {
                     <Text
                         style={estilos.textPublicar}
                     >
-                        Publicar
+                        Agregar
                     </Text>
                 </TouchableOpacity>
 
